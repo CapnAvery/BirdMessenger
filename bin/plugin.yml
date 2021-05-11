@@ -1,0 +1,8 @@
+name: birdMessenger
+version: 0.1
+author: CapnAvery
+main: me.capnaevory.birdmessenger.Main
+description: This Plugin sends a bird to a player
+
+commands:
+  bird:
